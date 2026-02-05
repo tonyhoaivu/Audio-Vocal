@@ -1,0 +1,7 @@
+{
+  "name": "Vocal Master Auto",
+  "description": "Professional vocal processing suite for high-quality singing effects, auto-tune, and harmony generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
